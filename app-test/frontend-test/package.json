@@ -1,0 +1,19 @@
+{
+  "name": "frontend-test",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "vitest"
+  },
+  "dependencies": {
+    "http-server": "^14.1.0"
+  },
+  "devDependencies": {
+    "happy-dom": "^2.55.0",
+    "vitest": "^0.9.3"
+  }
+}
